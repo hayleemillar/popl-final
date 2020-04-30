@@ -18,6 +18,6 @@ Features of Haylee:
 1. Integer Expressions-- Addtion, subtraction, and multiplication
 2. Boolean Expressions-- And, or, not, conditional
 3. Variable assignment
-4. Lambda expressions (function definitions achieved through variable assignment)
+4. Lambda expressions with one optional input (function definitions achieved through variable assignment)
 5. Call expressions (use to call a variable with lambda assignment)
 6. Error handling
