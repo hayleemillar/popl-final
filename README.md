@@ -20,3 +20,4 @@ Features of Haylee:
 3. Variable assignment
 4. Lambda expressions (function definitions achieved through variable assignment)
 5. Call expressions (use to call a variable with lambda assignment)
+6. Error handling
