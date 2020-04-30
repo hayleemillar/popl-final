@@ -1,0 +1,13 @@
+apply plugin: 'antlr'
+apply plugin: 'java'
+apply plugin: 'idea'
+
+dependencies {
+    antlr "org.antlr:antlr4:4.8"
+    compile "org.antlr:antlr4-runtime:4.8"
+    testCompile 'junit:junit:4.12'
+}
+
+repositories {
+    mavenCentral()
+}
